@@ -15,13 +15,3 @@ Perfect for creating quick audiobooks, listening to study material, or improving
 - 🐍 Lightweight Python script
 - 🧑‍💻 Beginner friendly
 
----
-
-## 🛠 Requirements
-
-Make sure you have **Python 3.8+** installed.
-
-Install the required libraries:
-
-```bash
-pip install pyttsx3 PyPDF2
